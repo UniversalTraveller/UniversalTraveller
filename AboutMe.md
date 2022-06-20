@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hi, my name is *Andreas Kiener* and I am new to this.
+Hi, my name is *Andreas Kiener* and I am new to this. Actually, I have a [blog](https://headio.net), but it hasen't been updated lately.
 
 ## Questions
 
