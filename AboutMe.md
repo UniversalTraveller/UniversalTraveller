@@ -1,4 +1,10 @@
-Hi, my name is Andreas Kiener and I am new to this.
+# About Me
+
+## Introduction
+
+Hi, my name is **Andreas Kiener** and I am new to this.
+
+## Questions
 
 Do you have a secret vice?
 
