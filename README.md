@@ -1,16 +1,34 @@
-### Hi there 👋
+# About Me
 
-<!--
-**UniversalTraveller/UniversalTraveller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is *Andreas Kiener*, and I am new to this. I learn to code at a bootcamp called [*neue fische*](https://www.neuefische.de). Our stack:
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- JavaScript
+- Git
+- React
+- Node.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Introduction
+
+I've always been interested in tech, particularly in coding and the web. But before starting at *neue fische* I worked as writer and editor. You can read some of my stories in my [blog](https://headio.net), but it hasn't been updated for quite a while.
+
+## Questions
+
+**Do you have a secret vice?**
+
+Yes, but it's secret, you know? ;-) Some people would call my knack for building WordPress-sites a vice.
+
+**What's the worst advice you ever got?**
+
+Don't get into coding, real life doesn't happen in front of the computer screen.
+
+**Please name some things you like!**
+
+- Cats
+- The Internet
+- Cycling
+- Fish (fun fact: I have a [website about fish keeping](https://nano-aquarium-tipps.de).)
+- Pizza
+- Books
