@@ -15,6 +15,7 @@ Hi, my name is *Andreas Kiener*, and I am new to this. I learn to code at a boot
 I've always been interested in tech, particularly in coding and the web. But before starting at *neue fische* I worked as writer and editor. You can read some of my stories in my [blog](https://headio.net), but it hasn't been updated for quite a while.
 
 I like to train coding at Codewars:
+
 ![Codewars Badge](https://www.codewars.com/users/Andreas%20Kiener/badges/large)
 
 ## Questions
